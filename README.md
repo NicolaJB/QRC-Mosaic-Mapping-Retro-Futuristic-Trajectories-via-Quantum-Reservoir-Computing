@@ -1,0 +1,2 @@
+# QRC-Mosaic-Mapping-Retro-Futuristic-Trajectories-via-Quantum-Reservoir-Computing
+Bypassing traditional pixel-level colour sorting, QRC-Mosaic is a hybrid quantum pipeline that processes metadata features of 64 retro-futuristic inventions across a 140-year range through a fading memory reservoir to construct transitioning pattern layers of historical tech-dreaming insight via a dynamic 8 x8 proof-of-concept artwork.
