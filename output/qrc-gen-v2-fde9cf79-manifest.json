@@ -1,0 +1,14 @@
+{
+  "$schema": "https://api.mothquantum.com/schemas/JobResultOutputBody.json",
+  "outputs": [
+    {
+      "slot": "state",
+      "output_asset_id": "6ea9bb3c-9c89-42ef-b296-b7c3d6fdadf0",
+      "url": "https://moth-api-assets-us-east-1.s3.us-east-1.amazonaws.com/jobs/fde9cf79-6941-41b3-960e-0f9b2d3dcb5c/outputs/state?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA6G75DOFZXS3XUJEC%2F20261003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261003T211514Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDnhUzipm6bggUkdjvDnNd9rVJysLp9OAwkkA7v2UXy3QIgIaL7iwrjm%2FTpfI1zldvhgFSAre9ITSNmzVFMOR6SaKIqpQUIsf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw5NzcwOTg5OTQwMzUiDPL6WO87nJ4YysDKHir5BAjADqq39mcIY3C7Z9cBrOj%2FwhCbtIFVf8IxAkjZtIaSjXgc6pvK%2FKGSItDGRwOKfbMD3nMx0Xg83Se%2B7DEFm5aQQwURIvt2F%2FfETNpOCdGNm8AmLLjKKl0K3pkrHh65E9glqp0obm5hH4tW4SL5mHoE1TxczDlM5kfSYf68mXt1go8zbICk7cICmOyJalN5GIk0JlAthrbFgqR3UTxM9YZOYXE8JaYcuoLHLW9RouKPuqvAXtn%2B1kkWih4p1kXhz6Fe1p9hunwRFO987kRO2feWNikPOxpN1XRkOWKc2gj%2FvHnhHzfUe3WQkFe%2BWVjUqsdw7ASRyRvuhXMHs4S%2FqSEi6L2VaEEEqXobhQo37wwz1614xPgaK3s7uGxO9BvNz9bpwLpk8SGtNWTMvID%2BibS8hlahKc83BErHNvUkZWBKKTA%2FfTjAc13Z5L35I%2Ff0plgry8D58k0OksGTM57T68JaKxA8ttNX%2FdWVmomlhqA6sKHdP72hHatefPAs5nQ1QgBl6Ru%2B%2F03MwicfDD3q8yqwhI3tphgY5h1Hdj4ztHtmCfg9NSMiSRs6XjRAkWKdlVDO5Gi73cs7I05TUneUcNNlFrxQm5O3lT9tFvltbQh3Rv2nznwZ6ie9ZaxwJxc1b%2FDpU7DjgOiGQ5oR%2Bk2%2FARBRRiXxOjKXhD25mbm0Xyz0AaMBa5x%2FECl3zqGBnX97jphO7Y%2Fi9wv9JuIKbIRHtVYoiDesVVb3OD%2FMWAifudb2MTPB1ND%2BBrttB6p9kpXlYdEXLnqQdkSmNScJ3ykGhzSgOdK7JxQEl4Mw1QEw9jLxN%2FUbIcrvYV0S5LEOuaxfmKHPkUdB3wHqQDDmzITWBjqQAXtJS4XW8zCB4Q3fLo2zLVayFh%2Bk13G3DJotCkAS2Ywzy%2BYGHzUholkZxfNS0rMpnvlVAI3KilkXp2IGhuxg7l18eaU5WeBAedSoJ4XH7xACEq%2Ba0JMkbWVWNHDp19fdHGa1ESvd7dMUZEfB%2BwNXPMn9TuXkC6WX96c6s7CbUWTzu1QpqfETwehiyv6O4B21Yg%3D%3D&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22qrc-gen-v2-fde9cf79.json%22%3B%20filename%2A%3DUTF-8%27%27qrc-gen-v2-fde9cf79.json&response-content-type=application%2Fjson&x-id=GetObject&X-Amz-Signature=5d7ae2748ae3e7df48cc6be4b7a49c98178f5b8b6ed52b2fd615cbaf8b7fd59b",
+      "expires_at": "2026-10-03T21:30:14.092364401Z",
+      "content_type": "application/json",
+      "filename": "qrc-gen-v2-fde9cf79.json",
+      "size_bytes": 47344
+    }
+  ]
+}
