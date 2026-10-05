@@ -1,0 +1,1132 @@
+[
+  {
+    "image_id": "FV001",
+    "original_filename": "FV001_grand_tour.jpg",
+    "description": "A colorful, abstract depiction featuring overlapping lines and shapes, including circular and geometric forms. Several stylized spacecraft are shown flying through a vibrant cosmic environment.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [
+      "futuristic technology",
+      "astronomy"
+    ],
+    "visible_elements": [
+      "abstract shapes",
+      "overlapping lines",
+      "colorful circles",
+      "spacecraft",
+      "cosmic environment"
+    ]
+  },
+  {
+    "image_id": "FV002",
+    "original_filename": "FV002_mars.jpg",
+    "description": "A vibrant, abstract depiction featuring a large white figure with a circular eye, surrounded by colorful geometric shapes and futuristic elements like a yellow robot head and a blue vehicle. The background includes stylized mountains and a red sky, suggesting a Martian landscape.",
+    "primary_topic": "extraterrestrial habitat",
+    "secondary_topics": [
+      "futuristic technology",
+      "robotics / automation"
+    ],
+    "visible_elements": [
+      "white figure with circular eye",
+      "yellow robot head",
+      "blue vehicle",
+      "geometric shapes",
+      "mountains",
+      "red sky"
+    ]
+  },
+  {
+    "image_id": "FV003",
+    "original_filename": "FV003_earth.jpg",
+    "description": "A couple wearing futuristic suits stands on a wooden platform overlooking a lush, green landscape with mountains and a river. A tree branch with red fruit hangs in the foreground, and a helmet rests nearby. The scene is vibrant and serene.",
+    "primary_topic": "human activity",
+    "secondary_topics": [
+      "futuristic technology",
+      "planetary surface"
+    ],
+    "visible_elements": [
+      "couple in suits",
+      "wooden platform",
+      "green landscape",
+      "mountains",
+      "river",
+      "tree branch with red fruit",
+      "helmet"
+    ]
+  },
+  {
+    "image_id": "FV004",
+    "original_filename": "FV004_venus.jpg",
+    "description": "A futuristic structure resembling a pyramid with a geometric dome on top, set against a backdrop of clouds and a celestial body. The structure has a sleek, metallic appearance with intricate patterns and a circular opening at the base.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [
+      "futuristic technology",
+      "extraterrestrial habitat"
+    ],
+    "visible_elements": [
+      "pyramid-shaped structure",
+      "geometric dome",
+      "clouds",
+      "celestial body",
+      "metallic patterns",
+      "circular opening"
+    ]
+  },
+  {
+    "image_id": "FV005",
+    "original_filename": "FV005_ceres.jpg",
+    "description": "A futuristic sign reading 'Ceres: Queen of the Asteroid Belt' with additional text indicating it's a gateway to the outer solar system and the last chance for water until Jupiter. Two silhouetted figures stand before the sign, observing a large, glowing structure resembling a planet or celestial body. A water pump is visible on the ground.",
+    "primary_topic": "extraterrestrial habitat",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "signboard",
+      "silhouetted figures",
+      "glowing celestial structure",
+      "water pump"
+    ]
+  },
+  {
+    "image_id": "FV006",
+    "original_filename": "FV006_jupiter.jpg",
+    "description": "A fantastical scene featuring a hot air balloon floating amidst vibrant auroras in a night sky. The balloon is surrounded by smaller balloons, and the landscape below appears rocky and cloud-covered.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [
+      "astronomy",
+      "futuristic technology"
+    ],
+    "visible_elements": [
+      "hot air balloon",
+      "auroras",
+      "rocky landscape",
+      "clouds",
+      "smaller balloons"
+    ]
+  },
+  {
+    "image_id": "FV007",
+    "original_filename": "FV007_enceladus.jpg",
+    "description": "A futuristic scene featuring a spacecraft with a transparent dome housing two figures observing a geysers-like eruption on a distant planet. The background showcases a mountainous landscape with red and white smoke or steam rising into space.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [
+      "space station",
+      "extraterrestrial habitat",
+      "human activity",
+      "futuristic technology"
+    ],
+    "visible_elements": [
+      "spacecraft",
+      "transparent dome",
+      "two figures",
+      "geysers-like eruption",
+      "mountainous landscape",
+      "red and white smoke/steam",
+      "space"
+    ]
+  },
+  {
+    "image_id": "FV008",
+    "original_filename": "FV008_titan.jpg",
+    "description": "A fiery, turbulent ocean scene with four small boats rowing towards a large, glowing sun. The water is depicted with swirling, dynamic lines suggesting strong currents. The overall color palette is warm, dominated by oranges and yellows.",
+    "primary_topic": "transportation",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "boats",
+      "ocean waves",
+      "sun",
+      "currents"
+    ]
+  },
+  {
+    "image_id": "FV009",
+    "original_filename": "FV009_europa.jpg",
+    "description": "A futuristic underwater scene viewed through a large circular window. A diver explores a tunnel-like structure with glowing blue lights. Silhouettes of three people observe the scene from outside the window.",
+    "primary_topic": "extraterrestrial habitat",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "diver",
+      "tunnel",
+      "glowing lights",
+      "circular window",
+      "silhouettes of people"
+    ]
+  },
+  {
+    "image_id": "FV010",
+    "original_filename": "FV010_51pegasib.jpg",
+    "description": "A collage of colorful, retro-futuristic travel posters featuring exoplanets like '51 Pegasi b' and 'HD 114762 b'. The posters include vibrant designs with space-themed imagery and text promoting interstellar travel.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "astronomy",
+      "transportation"
+    ],
+    "visible_elements": [
+      "travel posters",
+      "exoplanet names",
+      "space-themed graphics",
+      "colorful designs"
+    ]
+  },
+  {
+    "image_id": "FV011",
+    "original_filename": "FV011_superearth.jpg",
+    "description": "A person in a spacesuit appears to be floating or flying above a stylized depiction of Earth, with rays of light emanating from behind them. The background features abstract, geometric shapes in shades of blue and yellow.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "spacesuit",
+      "person",
+      "Earth",
+      "rays of light",
+      "geometric shapes"
+    ]
+  },
+  {
+    "image_id": "FV012",
+    "original_filename": "FV012_kepler16b.jpg",
+    "description": "A person stands on a barren, rocky landscape under two suns, casting long shadows. The sky is a gradient of yellow to orange, and distant mountains are silhouetted against the horizon.",
+    "primary_topic": "planetary surface",
+    "secondary_topics": [
+      "futuristic technology",
+      "astronomy"
+    ],
+    "visible_elements": [
+      "person",
+      "two suns",
+      "rocky landscape",
+      "distant mountains",
+      "long shadows"
+    ]
+  },
+  {
+    "image_id": "FV013",
+    "original_filename": "FV013_kepler186f.jpg",
+    "description": "Two figures in futuristic suits stand near a white picket fence, pointing towards a forested area with red foliage. The scene is set against a backdrop of a green sky and distant mountains.",
+    "primary_topic": "extraterrestrial habitat",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "two figures in suits",
+      "white picket fence",
+      "red foliage",
+      "forest",
+      "green sky",
+      "mountains"
+    ]
+  },
+  {
+    "image_id": "FV014",
+    "original_filename": "FV014_nightlife.jpg",
+    "description": "A futuristic scene featuring a woman in a sleek, white, geometric dress standing on a planetary surface. Behind her, a large, dark planet dominates the background, with smaller ships flying around. Silhouettes of people line the horizon, and the bottom text reads 'PSO J318.5-22 WHERE THE NIGHTLIFE NEVER ENDS!'.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [
+      "space station",
+      "planetary surface",
+      "futuristic technology"
+    ],
+    "visible_elements": [
+      "woman in white dress",
+      "large dark planet",
+      "flying ships",
+      "silhouetted people",
+      "text at the bottom"
+    ]
+  },
+  {
+    "image_id": "FV015",
+    "original_filename": "FV015_trappist.jpg",
+    "description": "A futuristic scene viewed through a window, featuring a vibrant red and blue sky with celestial bodies, a distant planet, and a landscape with glowing structures and mountains. Two silhouetted figures observe the view.",
+    "primary_topic": "extraterrestrial habitat",
+    "secondary_topics": [
+      "spacecraft",
+      "human activity",
+      "futuristic technology"
+    ],
+    "visible_elements": [
+      "window frame",
+      "celestial bodies",
+      "distant planet",
+      "glowing structures",
+      "mountains",
+      "silhouetted figures"
+    ]
+  },
+  {
+    "image_id": "FV016",
+    "original_filename": "FV016_atomic-clock-red_dVjcFPU.jpg",
+    "description": "A futuristic scene featuring a person standing on a circular platform surrounded by atomic orbit models and satellites. The background includes a starry space environment with celestial bodies and a clock-like structure.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "person",
+      "platform",
+      "atomic orbit models",
+      "satellites",
+      "clock structure",
+      "stellar background",
+      "celestial bodies"
+    ]
+  },
+  {
+    "image_id": "FV017",
+    "original_filename": "FV017_atomic-clock-orange.jpg",
+    "description": "A futuristic depiction featuring a large orange circular structure resembling a clock face with satellite-like objects orbiting around it. The background is dark blue with faint star-like points and dashed lines suggesting orbits or trajectories. A vertical line intersects the circle, possibly representing a time axis.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "spacecraft",
+      "communications"
+    ],
+    "visible_elements": [
+      "orange circular structure",
+      "satellite-like objects",
+      "dashed lines",
+      "vertical line",
+      "dark blue background"
+    ]
+  },
+  {
+    "image_id": "FV018",
+    "original_filename": "FV018_atomic-clock-blue.jpg",
+    "description": "A futuristic clock design with a central atomic clock symbol, surrounded by orbiting satellites and a figure observing the scene. The background features a circular pattern with numbers and abstract shapes, suggesting a deep space theme.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "spacecraft",
+      "communications",
+      "human activity"
+    ],
+    "visible_elements": [
+      "clock face",
+      "atomic clock symbol",
+      "satellites",
+      "orbital paths",
+      "human figure",
+      "abstract shapes",
+      "numbers"
+    ]
+  },
+  {
+    "image_id": "FV019",
+    "original_filename": "FV019_55-cancri-e.jpg",
+    "description": "A futuristic scene featuring a transparent sphere-like structure floating above a fiery, lava-covered planet. A hot air balloon-like object hovers nearby, and a jet trail cuts across the glowing horizon. The sky is filled with stars and a crescent moon, suggesting an alien environment.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [
+      "space station",
+      "planetary surface",
+      "futuristic technology"
+    ],
+    "visible_elements": [
+      "transparent sphere",
+      "hot air balloon",
+      "jet trail",
+      "fiery planet",
+      "stars",
+      "crescent moon"
+    ]
+  },
+  {
+    "image_id": "FV020",
+    "original_filename": "FV020_space-colony-1.jpeg",
+    "description": "Two futuristic spacecraft with solar panels and intricate designs are floating against a starry space background.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [],
+    "visible_elements": [
+      "spacecraft",
+      "solar panels",
+      "starry background"
+    ]
+  },
+  {
+    "image_id": "FV021",
+    "original_filename": "FV021_space-colony-2.jpeg",
+    "description": "A futuristic vehicle with large windows displays a view of a green, textured landscape below. The vehicle appears to be in space, as indicated by the dark, starry background with blue and purple hues. The interior of the vehicle shows a grid-like structure with compartments.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [
+      "futuristic technology",
+      "transportation"
+    ],
+    "visible_elements": [
+      "futuristic vehicle",
+      "large windows",
+      "green textured landscape",
+      "dark starry background",
+      "blue and purple hues",
+      "grid-like interior structure",
+      "compartments"
+    ]
+  },
+  {
+    "image_id": "FV022",
+    "original_filename": "FV022_space-colony-3.jpeg",
+    "description": "A futuristic structure with multiple levels, featuring a grid-like netting, a central hub with various machinery, and several figures in spacesuits engaged in activities. The background shows a detailed map-like view of a landscape below.",
+    "primary_topic": "space station",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "grid netting",
+      "central hub with machinery",
+      "spacesuits",
+      "landscape map",
+      "figures in spacesuits"
+    ]
+  },
+  {
+    "image_id": "FV023",
+    "original_filename": "FV023_space-colony-4.jpeg",
+    "description": "A futuristic circular structure with a green landscape inside, featuring a central circular pattern and a large white cylindrical structure extending upwards. The background shows stars, a glowing orange planet, and a smaller blue planet.",
+    "primary_topic": "extraterrestrial habitat",
+    "secondary_topics": [
+      "spacecraft",
+      "space station",
+      "futuristic technology"
+    ],
+    "visible_elements": [
+      "circular structure",
+      "green landscape",
+      "central circular pattern",
+      "white cylindrical structure",
+      "stars",
+      "glowing orange planet",
+      "smaller blue planet"
+    ]
+  },
+  {
+    "image_id": "FV024",
+    "original_filename": "FV024_space-colony-5.jpeg",
+    "description": "A futuristic space station with cylindrical modules, solar panels, and a large central structure resembling a telescope or observatory. The background shows stars and a distant planet, suggesting an extraterrestrial environment.",
+    "primary_topic": "space station",
+    "secondary_topics": [
+      "futuristic technology",
+      "astronomy"
+    ],
+    "visible_elements": [
+      "cylindrical modules",
+      "solar panels",
+      "central telescope-like structure",
+      "stars",
+      "distant planet"
+    ]
+  },
+  {
+    "image_id": "FV025",
+    "original_filename": "FV025_space-colony-6.jpeg",
+    "description": "A futuristic cityscape viewed from above, featuring a large circular structure with a transparent dome-like top, surrounded by lush greenery and small houses. People are gathered around tables, suggesting a social event. A river winds through the landscape, and a small orange umbrella is visible in the distance.",
+    "primary_topic": "city / settlement",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "circular structure",
+      "transparent dome",
+      "greenery",
+      "houses",
+      "people",
+      "tables",
+      "river",
+      "orange umbrella"
+    ]
+  },
+  {
+    "image_id": "FV026",
+    "original_filename": "FV026_space-colony-7.jpeg",
+    "description": "A futuristic spacecraft with a cylindrical main body, multiple solar panels extending outward, and a smaller module attached at one end. The structure includes various mechanical components and antennas.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [],
+    "visible_elements": [
+      "cylindrical main body",
+      "solar panels",
+      "smaller module",
+      "mechanical components",
+      "antennas"
+    ]
+  },
+  {
+    "image_id": "FV027",
+    "original_filename": "FV027_space-colony-8.jpeg",
+    "description": "A surreal landscape with a sky filled with clouds and a triangular structure emitting light. Below, a barren, rocky terrain with sparse vegetation and a few trees. The sky has a gradient of dark blue to orange hues, with a partial eclipse visible.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [
+      "space station",
+      "astronomy"
+    ],
+    "visible_elements": [
+      "clouds",
+      "triangular structure",
+      "eclipse",
+      "rocky terrain",
+      "trees",
+      "sky"
+    ]
+  },
+  {
+    "image_id": "FV028",
+    "original_filename": "FV028_space-colony-9.jpeg",
+    "description": "A futuristic landscape featuring a large, transparent structure hovering above a lush green valley with a river flowing through it. The structure appears to be a space station or advanced habitat, with a bridge connecting it to the ground. The sky is filled with stars and constellations, suggesting a night-time setting.",
+    "primary_topic": "space station",
+    "secondary_topics": [
+      "futuristic technology",
+      "transportation",
+      "astronomy"
+    ],
+    "visible_elements": [
+      "transparent space station",
+      "bridge",
+      "green valley",
+      "river",
+      "stars",
+      "constellations"
+    ]
+  },
+  {
+    "image_id": "FV029",
+    "original_filename": "FV029_space-colony-10.jpeg",
+    "description": "A futuristic space environment featuring a large, complex structure resembling a space station or habitat with multiple modules and solar panels. Smaller spacecraft are docked or orbiting around it. The background includes stars and nebulae, suggesting a deep space setting.",
+    "primary_topic": "space station",
+    "secondary_topics": [
+      "futuristic technology",
+      "spacecraft"
+    ],
+    "visible_elements": [
+      "space station",
+      "smaller spacecraft",
+      "solar panels",
+      "stars",
+      "nebulae"
+    ]
+  },
+  {
+    "image_id": "FV030",
+    "original_filename": "FV030_space-colony-11.jpeg",
+    "description": "A vibrant, futuristic landscape featuring rolling green hills, a river, and a distant planet with a moon. The sky is filled with abstract, colorful patterns resembling auroras or cosmic phenomena, and a large, glowing structure dominates the upper right, emitting beams of light.",
+    "primary_topic": "extraterrestrial habitat",
+    "secondary_topics": [
+      "spacecraft",
+      "futuristic technology",
+      "astronomy"
+    ],
+    "visible_elements": [
+      "rolling hills",
+      "river",
+      "distant planet",
+      "moon",
+      "abstract sky patterns",
+      "glowing structure",
+      "beams of light"
+    ]
+  },
+  {
+    "image_id": "FV031",
+    "original_filename": "FV031_space-colony-12.jpeg",
+    "description": "A futuristic space environment featuring multiple interconnected spacecraft with large dish-like antennas. The background includes a planet resembling Earth and stars, suggesting an extraterrestrial setting.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [
+      "futuristic technology",
+      "communications"
+    ],
+    "visible_elements": [
+      "spacecraft with dish antennas",
+      "interconnected structures",
+      "planet resembling Earth",
+      "stars"
+    ]
+  },
+  {
+    "image_id": "FV032",
+    "original_filename": "FV032_space-colony-13.jpeg",
+    "description": "A futuristic space station with two circular platforms connected by a central column, surrounded by smaller satellites and a distant spacecraft. The platforms have intricate designs with radial patterns and solar panels.",
+    "primary_topic": "space station",
+    "secondary_topics": [
+      "futuristic technology",
+      "spacecraft"
+    ],
+    "visible_elements": [
+      "space station",
+      "satellites",
+      "spacecraft",
+      "solar panels",
+      "radial patterns"
+    ]
+  },
+  {
+    "image_id": "FV033",
+    "original_filename": "FV033_space-colony-14.jpeg",
+    "description": "A futuristic cityscape viewed from above, featuring curved, transparent structures that allow a view into the sky and stars. The city is densely packed with white buildings, green trees, and pathways. A large, curved, transparent dome-like structure dominates the upper part of the image, with a bright light source inside. There are no visible people or vehicles.",
+    "primary_topic": "city / settlement",
+    "secondary_topics": [
+      "futuristic technology",
+      "space station"
+    ],
+    "visible_elements": [
+      "curved transparent structures",
+      "white buildings",
+      "green trees",
+      "pathways",
+      "dome-like structure",
+      "bright light source",
+      "sky and stars"
+    ]
+  },
+  {
+    "image_id": "FV034",
+    "original_filename": "FV034_space-colony-15.jpeg",
+    "description": "A futuristic space station with a curved structure, featuring a landscape inside that resembles Earth. There are multiple spacecraft orbiting around the station, and some figures appear to be working or exploring the interior. The environment is detailed with various technological elements and a view of outer space.",
+    "primary_topic": "space station",
+    "secondary_topics": [
+      "spacecraft",
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "curved space station",
+      "Earth-like landscape",
+      "multiple spacecraft",
+      "figures working",
+      "technological elements",
+      "outer space"
+    ]
+  },
+  {
+    "image_id": "FV035",
+    "original_filename": "FV035_space-colony-16.jpeg",
+    "description": "A futuristic indoor environment resembling a dome with a blue, reflective ceiling. It features a lush, green landscape with trees, hills, and a river, alongside modern buildings and structures. There are people walking around, and various technological elements like solar panels and possibly a water slide are visible.",
+    "primary_topic": "extraterrestrial habitat",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "dome structure",
+      "blue reflective ceiling",
+      "green landscape",
+      "trees",
+      "hills",
+      "river",
+      "buildings",
+      "people",
+      "solar panels",
+      "water slide"
+    ]
+  },
+  {
+    "image_id": "FV036",
+    "original_filename": "FV036_'La_Journée_d’un_journaliste_américain_en_2889'_by_George_Roux_1.jpg",
+    "description": "A man sits at a table with a large gramophone-like device emitting sound waves. A large, circular screen displays a woman in a classical pose. The room has ornate, vintage decor with intricate patterns.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "human activity",
+      "communications"
+    ],
+    "visible_elements": [
+      "man sitting at table",
+      "gramophone-like device",
+      "sound waves",
+      "large circular screen",
+      "woman on screen",
+      "ornate decor",
+      "intricate patterns"
+    ]
+  },
+  {
+    "image_id": "FV037",
+    "original_filename": "FV037_A_doctor_on_the_telephone_(which_is_linked_up_to_a_televisio_Wellcome_V0011546.jpg",
+    "description": "A man sits in a chair, holding a telephone receiver, facing a large screen displaying a woman's face. The room is filled with books and shelves, suggesting a study or library setting. The screen shows a close-up of the woman's face, indicating a video call or television-like communication device.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "communications",
+      "human activity"
+    ],
+    "visible_elements": [
+      "man sitting in chair",
+      "telephone receiver",
+      "large screen",
+      "woman's face on screen",
+      "books and shelves",
+      "study or library setting"
+    ]
+  },
+  {
+    "description": "A black-and-white illustration depicts a medical or surgical scene in a futuristic setting. A large, cylindrical light source illuminates a dissected body on a table, while a man points at a projected image of a human torso. Several individuals in surgical attire observe the procedure, and others sit in chairs watching attentively.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "human activity"
+    ],
+    "visible_elements": [
+      "dissected body",
+      "surgical team",
+      "projected image",
+      "light source",
+      "observers",
+      "medical equipment"
+    ],
+    "image_id": "FV038",
+    "original_filename": "FV038_A_periscope_being_used_above_an_operation_which_is_projected_Wellcome_L0014356.jpg"
+  },
+  {
+    "image_id": "FV039",
+    "original_filename": "FV039_A-Vision-of-the-future-q85-1447x1326.jpg",
+    "description": "A futuristic device with a pointed nozzle emitting a stream of light or gas. The body features a decorative panel with two figures and a number '6703'. The background suggests a celestial environment with swirling clouds.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "spacecraft",
+      "astronomy"
+    ],
+    "visible_elements": [
+      "futuristic device",
+      "pointed nozzle",
+      "stream of light/gas",
+      "decorative panel with figures",
+      "number '6703'",
+      "swirling clouds"
+    ]
+  },
+  {
+    "image_id": "FV040",
+    "original_filename": "FV040_Aerial_house3.jpg",
+    "description": "A whimsical, multi-tiered structure resembling a fantastical house or tower with intricate details, balconies, and mechanical elements. It appears to be floating in the sky with various animals and figures interacting within and around it.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "human activity",
+      "transportation"
+    ],
+    "visible_elements": [
+      "tower-like structure",
+      "balconies",
+      "mechanical gears",
+      "animals",
+      "people",
+      "sky"
+    ]
+  },
+  {
+    "image_id": "FV041",
+    "original_filename": "FV041_Bundesarchiv_Bild_102-11217,_Entwurf_eines_Ozeanexpresses.jpg",
+    "description": "A futuristic underwater vessel with a streamlined design and multiple circular windows is shown alongside a large airship and a smaller aircraft. The underwater vessel emits a beam of light, suggesting advanced propulsion technology. The scene takes place in a body of water under a cloudy sky.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "transportation",
+      "spacecraft"
+    ],
+    "visible_elements": [
+      "underwater vessel",
+      "airship",
+      "small aircraft",
+      "beam of light",
+      "body of water",
+      "cloudy sky"
+    ]
+  },
+  {
+    "image_id": "FV042",
+    "original_filename": "FV042_Bundesarchiv_Bild_102-13577,_Entwurf_eines_Wüstenschiffs,_Zeichnung.jpg",
+    "description": "A large, wheeled vehicle traverses a snowy landscape. It has multiple levels, including a top deck with railings, and is flanked by smaller figures on camels. The vehicle's wheels are massive and appear to be designed for traversing rough terrain.",
+    "primary_topic": "transportation",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "wheeled vehicle",
+      "snowy landscape",
+      "camels",
+      "people",
+      "top deck"
+    ]
+  },
+  {
+    "image_id": "FV043",
+    "original_filename": "FV043_Caricature_1828.jpg",
+    "description": "A bustling scene featuring steam-powered carriages and bicycles, with smoke billowing from the carriages' chimneys. People dressed in period attire are riding or standing on the carriages and bicycles, suggesting a lively urban environment.",
+    "primary_topic": "transportation",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "steam-powered carriages",
+      "bicycles",
+      "people in period clothing",
+      "smoke from chimneys",
+      "urban setting"
+    ]
+  },
+  {
+    "image_id": "FV044",
+    "original_filename": "FV044_Cartoon_dynamo.jpg",
+    "description": "A cartoonist's studio filled with mechanical devices labeled 'Cartoon Dynamo' and 'Idea Dynamo'. The artist is sketching a comic strip titled 'How to Torture a Wife', surrounded by stacks of daily and Sunday pages. A speech bubble suggests plans for a fishing trip.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "human activity",
+      "communications"
+    ],
+    "visible_elements": [
+      "cartoonist",
+      "sketchboard",
+      "ink bottle",
+      "dynamo machine",
+      "comic strips",
+      "speech bubble"
+    ]
+  },
+  {
+    "image_id": "FV045",
+    "original_filename": "FV045_Diagnosis_By_Radio,_1925_(telemedicine).jpeg",
+    "description": "A vintage illustration depicts a medical scene where a patient is being diagnosed remotely via radio technology. A large circular device resembling a television screen shows the patient, while a man in a suit uses a stethoscope-like apparatus connected to the screen. Another person, possibly a nurse, observes the process.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "human activity",
+      "communications"
+    ],
+    "visible_elements": [
+      "medical diagnosis setup",
+      "radio device",
+      "stethoscope-like apparatus",
+      "patient on screen",
+      "observer",
+      "nurse"
+    ]
+  },
+  {
+    "image_id": "FV046",
+    "original_filename": "FV046_Diesel_Forces.jpg",
+    "description": "A futuristic aircraft with a streamlined design and a pilot inside a cockpit, set against a dramatic sky with clouds. The aircraft has a propeller at the front and a large gun mounted on the side. The pilot is wearing a helmet and goggles, and there is a circular window showing part of the cockpit interior.",
+    "primary_topic": "spacecraft",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "futuristic aircraft",
+      "pilot",
+      "cockpit",
+      "propeller",
+      "gun",
+      "cloudy sky"
+    ]
+  },
+  {
+    "image_id": "FV047",
+    "original_filename": "FV047_Flying-Cars-of-the-Future.png",
+    "description": "A biplane with a car-like body and wheels is depicted on a grassy field. The aircraft has a large, open cockpit with two figures inside. In the background, there are smaller aircraft flying overhead, and smoke trails are visible.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "transportation"
+    ],
+    "visible_elements": [
+      "biplane",
+      "car-like body",
+      "wheels",
+      "cockpit",
+      "two figures",
+      "grass field",
+      "smaller aircraft",
+      "smoke trails"
+    ]
+  },
+  {
+    "image_id": "FV048",
+    "original_filename": "FV048_Franke-Reade_WhiteCruiser_1902.jpg",
+    "description": "A fantastical scene featuring a large, airship-like vessel with multiple sails and a crew climbing ladders. The background includes lush greenery and distant mountains under a partly cloudy sky.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "transportation",
+      "human activity"
+    ],
+    "visible_elements": [
+      "airship",
+      "crew members",
+      "ladders",
+      "greenery",
+      "mountains",
+      "cloudy sky"
+    ]
+  },
+  {
+    "image_id": "FV049",
+    "original_filename": "FV049_GER_—_Sachsen_—_Dresden_—_Augustusstraße_1_(Verkehrsmuseum)_Mattes_2022-03-24_Batch_(77).jpg",
+    "description": "Two figures wearing large, bat-wing-like devices are depicted. The figure on the left is walking along a path near water, while the figure on the right appears to be flying or gliding through the air. Both figures wear helmets and long coats, suggesting a futuristic or experimental context.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "transportation",
+      "human activity"
+    ],
+    "visible_elements": [
+      "bat-wing devices",
+      "figures with helmets and coats",
+      "path near water",
+      "figure in flight"
+    ]
+  },
+  {
+    "image_id": "FV050",
+    "original_filename": "FV050_King'sViewsNewYorkCoverDelineatorRichardRummellEd_Moses_King1911.png",
+    "description": "A futuristic cityscape with towering skyscrapers, flying biplanes, elevated train tracks, and a golden statue atop a building. The sky is filled with more aircraft, suggesting advanced air travel.",
+    "primary_topic": "city / settlement",
+    "secondary_topics": [
+      "transportation",
+      "futuristic technology"
+    ],
+    "visible_elements": [
+      "skyscrapers",
+      "biplanes",
+      "elevated train tracks",
+      "golden statue",
+      "flying aircraft",
+      "city skyline"
+    ]
+  },
+  {
+    "image_id": "FV051",
+    "original_filename": "FV051_March_of_Intellect_n°2.jpg",
+    "description": "A fantastical scene depicting various imaginative inventions and activities, including flying machines, a large central apparatus labeled 'Arms of human invention,' and figures engaging in diverse tasks. The setting includes a stage-like structure with a banner reading 'March of Intellect No.2' and a large, ornate machine at the center.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "transportation",
+      "human activity"
+    ],
+    "visible_elements": [
+      "flying machines",
+      "large central apparatus",
+      "stage with banner",
+      "ornate machine",
+      "figures engaged in activities"
+    ]
+  },
+  {
+    "image_id": "FV052",
+    "original_filename": "FV052_Micro_Cupol_microwave_oven,_designed_in_1969_by_Carl-Arne_Breger,_Husqvarna,_c._1973_-_Tekniska_museet_-_Stockholm,_Sweden_-_DSC01505.jpeg",
+    "description": "A vintage microwave oven with a green base and a transparent dome lid, containing a single candy bar on a white plate inside.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [],
+    "visible_elements": [
+      "microwave oven",
+      "transparent dome lid",
+      "green base",
+      "white plate",
+      "candy bar"
+    ]
+  },
+  {
+    "image_id": "FV053",
+    "original_filename": "FV053_Perth_in_2029.jpg",
+    "description": "A futuristic cityscape viewed from above, featuring multiple flying aircraft and a dense urban area with modern architecture. The scene includes a large body of water and greenery surrounding the city.",
+    "primary_topic": "city / settlement",
+    "secondary_topics": [
+      "transportation",
+      "futuristic technology"
+    ],
+    "visible_elements": [
+      "flying aircraft",
+      "urban landscape",
+      "water body",
+      "greenery",
+      "modern buildings"
+    ]
+  },
+  {
+    "image_id": "FV054",
+    "original_filename": "FV054_Popular_Mechanics_-_1928_04_-_Cover.png",
+    "description": "A futuristic vehicle glides over a frozen lake, surrounded by snow-covered trees and distant figures ice skating. The scene is set during sunset, with a mountainous landscape in the background.",
+    "primary_topic": "transportation",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "futuristic vehicle",
+      "frozen lake",
+      "snow-covered trees",
+      "distant ice skaters",
+      "mountainous landscape",
+      "sunset"
+    ]
+  },
+  {
+    "image_id": "FV055",
+    "original_filename": "FV055_Popular_Mechanics_-_1928_07_-_Cover.png",
+    "description": "A large steamship is docked at a pier, emitting smoke from its stacks. A train is connected to the ship, suggesting a transfer of cargo or passengers. The scene is set against a backdrop of a city skyline and a cloudy sky.",
+    "primary_topic": "transportation",
+    "secondary_topics": [
+      "futuristic technology",
+      "human activity"
+    ],
+    "visible_elements": [
+      "steamship",
+      "train",
+      "pier",
+      "city skyline",
+      "cloudy sky"
+    ]
+  },
+  {
+    "image_id": "FV056",
+    "original_filename": "FV056_Popular_science_monthly_(1872)_(14779856571).jpg",
+    "description": "A group of soldiers is inside a bunker-like structure, illuminated by a light source. The background shows a battlefield with smoke and explosions. The soldiers appear to be engaged in some form of communication or observation.",
+    "primary_topic": "human activity",
+    "secondary_topics": [
+      "futuristic technology",
+      "energy / infrastructure"
+    ],
+    "visible_elements": [
+      "soldiers",
+      "bunker",
+      "battlefield",
+      "explosions",
+      "smoke",
+      "light source"
+    ]
+  },
+  {
+    "image_id": "FV057",
+    "original_filename": "FV057_Rudolf_Heinisch,_Zukunftsvision_Frankfurt_am_Main,_1925.jpg",
+    "description": "A detailed, futuristic cityscape featuring a large suspension bridge spanning over a river, with multiple levels of traffic including cars and pedestrians. Buildings are adorned with advertisements, and there are flying aircraft in the sky. The scene includes a circular structure labeled 'AUTO 80K' and various other urban elements.",
+    "primary_topic": "city / settlement",
+    "secondary_topics": [
+      "futuristic technology",
+      "transportation"
+    ],
+    "visible_elements": [
+      "suspension bridge",
+      "traffic",
+      "buildings with advertisements",
+      "flying aircraft",
+      "circular structure",
+      "pedestrians",
+      "cars",
+      "river"
+    ]
+  },
+  {
+    "image_id": "FV058",
+    "original_filename": "FV058_ShanghaiPlanNine.jpg",
+    "description": "A tall building with a distinctive dome-shaped top featuring a spire. The structure has a series of circular platforms around the dome, and the lower part appears to have a grid-like pattern of windows.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [],
+    "visible_elements": [
+      "tall building",
+      "dome-shaped top",
+      "spire",
+      "circular platforms",
+      "grid-like windows"
+    ]
+  },
+  {
+    "image_id": "FV059",
+    "original_filename": "FV059_Stereoanlage_Vision_2000.jpg",
+    "description": "A futuristic device encased in a transparent dome sits atop a sleek, chrome stand. The device has a rectangular panel with various buttons and dials, suggesting advanced functionality.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [],
+    "visible_elements": [
+      "transparent dome",
+      "rectangular panel",
+      "buttons",
+      "dials",
+      "chrome stand"
+    ]
+  },
+  {
+    "image_id": "FV060",
+    "original_filename": "FV060_Stollwerck_1898_Im_Jahre_2000._Ein_Reisehotel.jpg",
+    "description": "A futuristic cityscape featuring a large, ornate building labeled 'Schlafsalons' and 'Bier-Restaurant'. The scene includes bicycles, pedestrians, a tram, and a boat on a body of water. Parachutes and flying contraptions are visible in the sky.",
+    "primary_topic": "city / settlement",
+    "secondary_topics": [
+      "transportation",
+      "futuristic technology"
+    ],
+    "visible_elements": [
+      "ornate building",
+      "bicycles",
+      "pedestrians",
+      "tram",
+      "boat",
+      "parachutes",
+      "flying contraptions"
+    ]
+  },
+  {
+    "image_id": "FV061",
+    "original_filename": "FV061_Telephonoscope.jpg",
+    "description": "A black-and-white illustration depicts a family watching a projected image of a tropical scene with people playing cricket. The room has a dark ambiance, with the audience seated in armchairs, and the projected image shows a bright outdoor setting with palm trees and a cricket field.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "human activity",
+      "communications"
+    ],
+    "visible_elements": [
+      "projected image",
+      "family members",
+      "armchairs",
+      "cricket field",
+      "palm trees",
+      "dark room"
+    ]
+  },
+  {
+    "image_id": "FV062",
+    "original_filename": "FV062_Tom_Swift_Photo_Telephone_Fpiece.jpg",
+    "description": "A man stands at a cluttered desk filled with various mechanical devices, including a large box with a screen displaying a person's face. The room is dimly lit, emphasizing the intricate details of the machinery and the man's focused expression.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "communications",
+      "human activity"
+    ],
+    "visible_elements": [
+      "man",
+      "desk",
+      "mechanical devices",
+      "screen",
+      "person's face on screen"
+    ]
+  },
+  {
+    "image_id": "FV063",
+    "original_filename": "FV063_Haskovo_Futurism.jpg",
+    "description": "A bustling street scene with a clock tower at the center, surrounded by traditional buildings. Overhead, flying machines resembling early aircrafts are seen, suggesting advanced transportation. A vintage car is parked on the right, and pedestrians walk along the sidewalk.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "city / settlement",
+      "transportation"
+    ],
+    "visible_elements": [
+      "clock tower",
+      "traditional buildings",
+      "flying machines",
+      "vintage car",
+      "pedestrians",
+      "street scene"
+    ]
+  },
+  {
+    "image_id": "FV064",
+    "original_filename": "FV064_The_Modern_Boy_1928-11-17.jpg",
+    "description": "A large, futuristic vehicle resembling a train or tank with wheels, situated on a desert landscape. A camel and rider are present in the foreground, suggesting a blend of modern and ancient elements. The sky is dark, indicating either night or a stormy atmosphere.",
+    "primary_topic": "futuristic technology",
+    "secondary_topics": [
+      "transportation",
+      "human activity"
+    ],
+    "visible_elements": [
+      "futuristic vehicle",
+      "camel",
+      "rider",
+      "desert landscape",
+      "dark sky"
+    ]
+  }
+]
