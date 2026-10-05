@@ -70,6 +70,26 @@ QRC-Mosaic/
 └── README.md
 ```
 
+### Project Concept
+
+```
+Quantum Reservoir Computing
+            +
+Historical Metadata
+            +
+Vision-Language Models
+            +
+Computational Mosaic Art
+            +
+Temporal Dynamics
+            │
+            ▼
+Non-Linear Historical Visualisation
+```
+
+From timelines to trajectories: using quantum dynamics to explore how humanity has imagined the future.
+
+
 ### Pipeline Architecture
 ```
 Historical Image Corpus
@@ -615,7 +635,7 @@ The project explores how a quantum-native computational mechanism can be embedde
 
 The emphasis is not simply on replacing a classical component with a quantum component, but on exploring whether quantum temporal dynamics can produce a different form of spatial organisation.
 
-## License & Acknowledgements
+## Acknowledgements
 - Hackathon: [MOTH_Hack Quantum Computing Hackathon 2026](https://hack.mothquantum.com/)
 - Quantum Infrastructure: [MOTH Atlas](https://platform.mothquantum.com/) Quantum Engines ([qrc-train-v2](https://docs.mothquantum.com/docs/engines/qrc-train-v2) / [qrc-gen-v2](https://docs.mothquantum.com/docs/engines/qrc-gen-v2))
 - Vision-Language Model: Qwen2.5-VL-7B-Instruct
@@ -623,22 +643,12 @@ The emphasis is not simply on replacing a classical component with a quantum com
 - Image Processing: CIE Lab / OpenCV / Pillow
 - Image Corpus: NASA/JPL archival artwork and public-domain retro-futuristic collections
 
-### Project Concept
+## Dataset Copyright & License
 
-```
-Quantum Reservoir Computing
-            +
-Historical Metadata
-            +
-Vision-Language Models
-            +
-Computational Mosaic Art
-            +
-Temporal Dynamics
-            │
-            ▼
-Non-Linear Historical Visualisation
-```
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for full details.
 
-From timelines to trajectories: using quantum dynamics to explore how humanity has imagined the future.
+All images in the `images/` corpus are in the **Public Domain**:
+
+* **NASA / JPL Media:** Created by NASA/JPL and in the public domain under US copyright law (17 U.S.C. § 105).
+* **Retro-Futuristic Collections:** Sourced exclusively from public-domain, copyright-expired, or CC0-dedicated historical archives spanning 1880–2020.
 
