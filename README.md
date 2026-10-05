@@ -68,9 +68,10 @@ QRC-Mosaic/
 │
 ├── requirements.txt
 └── README.md
+```
 
 ### Pipeline Architecture
-
+```
 Historical Image Corpus
         │
         ▼
