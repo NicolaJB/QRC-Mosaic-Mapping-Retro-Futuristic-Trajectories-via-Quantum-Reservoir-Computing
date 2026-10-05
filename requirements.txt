@@ -1,0 +1,24 @@
+# Core Scientific & Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+Pillow>=9.5.0
+matplotlib>=3.7.0
+
+# Computer Vision & Machine Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Vision-Language Models & API Handling
+requests>=2.28.0
+python-dotenv>=1.0.0
+transformers>=4.40.0
+qwen-vl-utils>=0.0.8
+
+# Animation & Media Processing
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.8
+
+# Interactive Workbench Environment
+jupyter>=1.0.0
+notebook>=6.5.0
