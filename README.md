@@ -4,7 +4,12 @@
 >
 > *Exploring Non-Linear Temporal Permutations in Historical Image Corpora*
 
-Bypassing traditional pixel-level colour sorting, QRC-Mosaic is a hybrid quantum pipeline that processes metadata features of 64 retro-futuristic inventions across a 140-year range through a fading memory reservoir to construct transitioning pattern layers of historical tech-dreaming insight via a dynamic 8 x8 proof-of-concept artwork.
+Bypassing traditional pixel-level colour sorting, QRC-Mosaic is a hybrid quantum pipeline that processes metadata features of 64 retro-futuristic inventions across a 140-year range through a fading memory reservoir to construct transitioning pattern layers of historical tech-dreaming insight via a dynamic 8x8 proof-of-concept artwork.
+
+![QRC-Mosaic Dynamic Visualisation](output/animated_pair_of_eyes_natural.gif)
+
+*Dynamic dual-eye visual rendering driven by quantum reservoir dynamics and spatial permutations.*
+
 
 ---
 
