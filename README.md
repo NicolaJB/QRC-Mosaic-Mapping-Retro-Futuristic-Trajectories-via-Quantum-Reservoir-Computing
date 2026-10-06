@@ -624,16 +624,12 @@ The VLM stage requires sufficient local compute/GPU resources for inference.
 
 ## Hackathon Context
 
-Event: Moth_Hack Quantum Computing Hackathon 2026
+- **Event:** [Moth_Hack Quantum Computing Hackathon 2026](https://hack.mothquantum.com/)
+- **Demo Video:** [Watch Project Video Demo on YouTube](https://www.youtube.com/watch?v=JXENJOi4zew)
+- **Submission:** QRC-Mosaic: Mapping Retro-Futuristic Trajectories via Quantum Reservoir Computing Exploring Non-Linear Temporal Permutations in Historical Image Corpora
+- **Track/Concept:** Quantum-native 2 notebook / Quantum Reservoir Computing
 
-Submission: QRC-Mosaic: Mapping Retro-Futuristic Trajectories via Quantum Reservoir Computing 
-*Exploring Non-Linear Temporal Permutations in Historical Image Corpora*
-
-Track/Concept: Quantum-native 2 notebook / Quantum Reservoir Computing
-
-The project explores how a quantum-native computational mechanism can be embedded within a broader multimodal machine-learning and visualisation pipeline.
-
-The emphasis is not simply on replacing a classical component with a quantum component, but on exploring whether quantum temporal dynamics can produce a different form of spatial organisation.
+The project explores how a quantum-native computational mechanism can be embedded within a broader multimodal machine-learning and visualisation pipeline. The emphasis is not simply on replacing a classical component with a quantum component, but on exploring whether quantum temporal dynamics can produce a different form of spatial organisation.
 
 ## Acknowledgements
 - Hackathon: [MOTH_Hack Quantum Computing Hackathon 2026](https://hack.mothquantum.com/)
